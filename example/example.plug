@@ -1,0 +1,12 @@
+[Core]
+module = example
+name = example
+
+[Documentation]
+description = Just an example
+
+[Python]
+version = 3
+
+[Errbot]
+
